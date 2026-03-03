@@ -20,7 +20,7 @@
   background-color: #efffff;
 }
 
-.inputTodo:active {
+.inputTodo:focus {
   background-color: #efffff;
 }
 
